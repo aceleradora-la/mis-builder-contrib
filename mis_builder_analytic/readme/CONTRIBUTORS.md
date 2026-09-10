@@ -5,3 +5,5 @@ Contributors
 
   - Ernesto Tejeda
   - Pedro M. Baeza
+
+- `Aceleradora LA <https://aceleradora.la>`__
